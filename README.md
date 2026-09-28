@@ -16,3 +16,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 
 * [wesley verhulst](./people/Wesley_Verhulst.md)
+* [Matteo Wouters](./people/matteo_wouters.md)
